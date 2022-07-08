@@ -43,7 +43,6 @@ div:after {
 }
 
 span {
-  content: " ";
   border: 1rem solid;
   border-radius: 100%;
   position: absolute;
